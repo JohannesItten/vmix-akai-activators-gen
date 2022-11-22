@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activators>
+  <activator>
+    <event></event>
+    <inputGuid></inputGuid>
+    <inputNumber></inputNumber>
+    <local>False</local>
+    <channel></channel>
+    <messageType>Note</messageType>
+    <note></note>
+    <noteTo>0</noteTo>
+    <context>
+    </context>
+    <value />
+  </activator>
+</activators>
